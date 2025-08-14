@@ -16,7 +16,7 @@ console.log(accountId);
 
 /*
 Use let to declare variables but var
-
+becuase of issue in block scope and functional scope
 */
 
 
